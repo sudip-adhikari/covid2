@@ -1,1 +1,2 @@
-New map administration boundaries
+New map administration boundaries.
+pip install pandas
